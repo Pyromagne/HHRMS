@@ -68,9 +68,9 @@ const Login = () => {
     login();
   };
 
-  const [username, setUsername] = useState("");
+  const [username, setUsername] = useState("admin123");
   const [userNameError, setUsernameError] = useState("");
-  const [password, setPassword] = useState("");
+  const [password, setPassword] = useState("123");
   const [passwordError, setPasswordError] = useState("");
   const [visible, setVisible] = useState(false);
 
