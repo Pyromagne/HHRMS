@@ -15,25 +15,11 @@
 - Node.js - https://nodejs.org/en
 - MongoDB - https://www.mongodb.com/try/download/community
 
-*use recommended configuration in all application installation process*
-
-
-## Instruction
-Kung gusto niyo ma download buong file sa desktop or laptop at pwede niyo din ma open sa visual studio code at i-run. 
-need niyo i clone yung github link sa local computer niyo or laptop. sundan niyo yung steps kung paano.
-
-1. punta ka sa command prompt or git bash propmt
-2. type `cd desktop` para sa desktop  siya ma sa-save at mabilis niyo makita yung file.
-3. type `git clone https://github.com/edillormark2/HospitalHumanResourceManagementSystem.git`
-
-*then okay na yan na save na yan sa desktop niyo tignan niyo nalang.* 
-
 
 ## Repository Rules
 - remote shorthand name: **origin**
 - main branch: **master**
 - **DO NOT** push directly in **master branch**, always make a branch and then make a pull request/merge request
-
 
 ## development flow 
 1. pull latest changes in github repository `git pull origin master`
